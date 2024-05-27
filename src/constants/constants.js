@@ -13,7 +13,7 @@ export const projects = [
   {
     title: "Lavender App",
     description:
-      "This UI/UX design pertains to Lavender, a brand of organic beauty products. It serves the purpose of showcasing diverse product and facilitating sales through the application.",
+      "This UI/UX design pertains to Lavender, a brand of organic beauty products. It serves to showcasing diverse product and facilitating sales through the application.",
     image: "/images/lavender.png",
     tags: ["Figma", "Canva"],
     visit:
@@ -35,7 +35,7 @@ export const projects = [
   {
     title: "Lafarge Warehouse",
     description:
-      "This is a full stack web application that is created for Lafarge Warehouse .The purpose of the  application is to showing and selling the warehouse items through the website.",
+      "This is a full stack web application that is created for Lafarge Warehouse .The purpose of the  application is showing and selling the warehouse items through the website.",
     image: "/images/warehouse.jpg",
     tags: ["MySQL", "PHP", "HTML", "Bootstrap"],
     visit: "https://github.com/Shene24/lafwarehouse.git",
